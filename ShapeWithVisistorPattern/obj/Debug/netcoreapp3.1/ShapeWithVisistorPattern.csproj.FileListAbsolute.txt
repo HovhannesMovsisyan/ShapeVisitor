@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\Homework1.HovhannesMovsisyan\ShapeWithVisistorPattern\bin\Debug\netcoreapp3.1\ShapeWithVisistorPattern.exe
+C:\Users\HP\Desktop\Homework1.HovhannesMovsisyan\ShapeWithVisistorPattern\bin\Debug\netcoreapp3.1\ShapeWithVisistorPattern.deps.json
+C:\Users\HP\Desktop\Homework1.HovhannesMovsisyan\ShapeWithVisistorPattern\bin\Debug\netcoreapp3.1\ShapeWithVisistorPattern.runtimeconfig.json
+C:\Users\HP\Desktop\Homework1.HovhannesMovsisyan\ShapeWithVisistorPattern\bin\Debug\netcoreapp3.1\ShapeWithVisistorPattern.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Homework1.HovhannesMovsisyan\ShapeWithVisistorPattern\bin\Debug\netcoreapp3.1\ShapeWithVisistorPattern.dll
+C:\Users\HP\Desktop\Homework1.HovhannesMovsisyan\ShapeWithVisistorPattern\bin\Debug\netcoreapp3.1\ShapeWithVisistorPattern.pdb
+C:\Users\HP\Desktop\Homework1.HovhannesMovsisyan\ShapeWithVisistorPattern\obj\Debug\netcoreapp3.1\ShapeWithVisistorPattern.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Homework1.HovhannesMovsisyan\ShapeWithVisistorPattern\obj\Debug\netcoreapp3.1\ShapeWithVisistorPattern.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Homework1.HovhannesMovsisyan\ShapeWithVisistorPattern\obj\Debug\netcoreapp3.1\ShapeWithVisistorPattern.AssemblyInfo.cs
+C:\Users\HP\Desktop\Homework1.HovhannesMovsisyan\ShapeWithVisistorPattern\obj\Debug\netcoreapp3.1\ShapeWithVisistorPattern.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Homework1.HovhannesMovsisyan\ShapeWithVisistorPattern\obj\Debug\netcoreapp3.1\ShapeWithVisistorPattern.dll
+C:\Users\HP\Desktop\Homework1.HovhannesMovsisyan\ShapeWithVisistorPattern\obj\Debug\netcoreapp3.1\ShapeWithVisistorPattern.pdb
+C:\Users\HP\Desktop\Homework1.HovhannesMovsisyan\ShapeWithVisistorPattern\obj\Debug\netcoreapp3.1\ShapeWithVisistorPattern.genruntimeconfig.cache
